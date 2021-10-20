@@ -1,4 +1,4 @@
-image: fr3akyphantom/droid-builder:latest
+image: fr3akyphantom/droid-builder:focal
 tasks:
   - before: >
       git config --global --unset credential.helper
