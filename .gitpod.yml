@@ -1,4 +1,4 @@
-image: fr3akyphantom/docker_droid-builder:master
+image: rokibhasansagar/docker_droid-builder:master
 tasks:
   - before: >
       git config --global --unset credential.helper
